@@ -37,29 +37,29 @@ A Random Forest Classifier is an ensemble learning method that combines multiple
 ## Exploratory Data Analysis
 
 1. **Data Overview**
-- Loaded the dataset and examined basic statistics and structure.
-- Checked for missing values and inconsistencies to ensure data quality.
+  - Loaded the dataset and examined basic statistics and structure.
+  - Checked for missing values and inconsistencies to ensure data quality.
 
 2. **Feature Distribution Analysis**
-- Visualized the distribution of numerical features using histograms and density plots.
-- Identified skewness and potential outliers in key features.
+  - Visualized the distribution of numerical features using histograms and density plots.
+  - Identified skewness and potential outliers in key features.
 
 3. **Correlation Analysis**
-- Computed the correlation matrix for numerical features.
-- Visualized correlations using a heatmap to detect strong relationships between variables.
+  - Computed the correlation matrix for numerical features.
+  - Visualized correlations using a heatmap to detect strong relationships between variables.
 
 4. **Categorical Feature Analysis**
-- Created count plots for categorical variables to examine class distributions.
-- Observed imbalances and unique patterns in categorical features.
+  - Created count plots for categorical variables to examine class distributions.
+  - Observed imbalances and unique patterns in categorical features.
 
 5. **Boxplots for Feature Comparison**
-- Compared numerical feature distributions against categorical variables.
-- Detected variations in feature values that may influence model predictions.
+  - Compared numerical feature distributions against categorical variables.
+  - Detected variations in feature values that may influence model predictions.
 
 6. **Feature Importance Visualization**
-- Encoded categorical variables for model compatibility.
-- Applied a Random Forest Classifier to compute and rank feature importances.
-- Visualized importance scores using a bar chart with error bars for clarity.
+  - Encoded categorical variables for model compatibility.
+  - Applied a Random Forest Classifier to compute and rank feature importances.
+  - Visualized importance scores using a bar chart with error bars for clarity.
 
 ## Tools & Libraries
 - **Python**
